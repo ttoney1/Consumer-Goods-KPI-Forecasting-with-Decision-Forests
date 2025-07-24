@@ -1,4 +1,3 @@
-# Consumer-Goods-KPI-Forecasting-with-Decision-Forests
 # 📘 Consumer Goods KPI Forecasting with Decision Forests
 
 ## 🔍 Overview
